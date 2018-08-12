@@ -24,6 +24,7 @@ import "github.com/ChristopherBrand/golang-mysql"
 func main() {
   results, err := mysql.Query("SELECT * FROM table")
 }
+```
 
 ## Return
 
