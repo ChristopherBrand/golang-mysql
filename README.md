@@ -28,7 +28,7 @@ func main() {
 
 ## Return
 
-All implemented functions return the same as their corrolaries as the go-sql-driver/mysql package. Please see further documentation at https://github.com/go-sql-driver/mysql.
+All implemented functions return the same as their corrolaries in the go-sql-driver/mysql package. Please see further documentation at https://github.com/go-sql-driver/mysql.
 
 ## Further Development
 
